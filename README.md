@@ -26,10 +26,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+--- 
 
-
-
-
+### ⚙️ My Projects :
+- Updating soon
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -51,11 +51,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
+  <img src="https://svgshare.com/i/5xY.svg" alt="heroku" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### Social info
+### 🔗 Social info
 <div id="badges">
     <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
