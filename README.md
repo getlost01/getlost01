@@ -22,7 +22,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=getlost01&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=getlost01&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-[![My activity](https://activity-graph.herokuapp.com/graph?username=getlost01&bg_color=0d0d0d&color=1ab749&line=4e73ca&point=bfbfbf&area=true&hide_border=true%22)](https://github.com/getlost01)
+[![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=getlost01&theme=react-dark)](https://github.com/getlost01)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
