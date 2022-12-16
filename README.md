@@ -28,8 +28,31 @@
 
 --- 
 
+
 ### ⚙️ My Projects :
-- Updating soon
+
+#### Full-Stack Projects :
+
+* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
+* [UIET Connect](https://github.com/getlost01/UietConnect)
+* [Meal Planner](https://github.com/getlost01/meal-planner-API)
+* [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
+* [ABitShort](https://github.com/getlost01/linkshortner)
+* [File Share App](https://github.com/getlost01/dlink-share)
+
+#### Web Store Extensions :
+
+* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
+* [Site Saver](https://github.com/getlost01/site-saver)
+* [CP Calender](https://github.com/getlost01/cp-contest-calender)
+
+#### Frontend Projects :
+
+* [Quiz App Templates](https://github.com/getlost01/quiz-template)
+* [Country Search](https://github.com/getlost01/country-search)
+* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
+* [Cure Science Updated](https://github.com/getlost01/CureScience)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
