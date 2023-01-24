@@ -94,9 +94,18 @@
 
 
 ---
-![snake gif](https://github.com/getlost01/getlost01//blob/output/github-snake-dark.svg)
 
-### Visitor Info
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 👀 Visitor Info
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=getlost01)
 
