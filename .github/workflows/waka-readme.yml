@@ -8,12 +8,15 @@ on:
 
 jobs:
   update-readme:
+    permissions: write-all
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: guilyx/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: "waka-simple"
+          COMMIT_MESSAGE: "docs: updated overall time stats"
           SHOW_TITLE: true
           TIME_RANGE: all_time
           SHOW_TIME: true
