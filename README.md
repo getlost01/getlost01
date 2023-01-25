@@ -19,12 +19,11 @@
 --- 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=getlost01&theme=highcontrast&background=000000)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=getlost01&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-[![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=getlost01&theme=react-dark)](https://github.com/getlost01)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=getlost01&theme=react)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=getlost01&theme=react-dark)
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react)
 
 --- 
 
