@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: "waka-simple"
-          COMMIT_MESSAGE: "docs: updated overall time stats"
+          COMMIT_MESSAGE: "waka update time stats"
           SHOW_TITLE: true
           TIME_RANGE: all_time
           SHOW_TIME: true
