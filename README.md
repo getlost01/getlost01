@@ -88,16 +88,16 @@
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 24 January 2023 - To: 03 March 2023
+From: 24 January 2023 - To: 04 March 2023
 
-Total Time: 76 hrs 20 mins
+Total Time: 78 hrs 31 mins
 
-TypeScript   62 hrs 54 mins  ████████████████████▓░░░░   82.40 %
-JavaScript   7 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-CSS          1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Bash         1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-PHP          1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-JSON         58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+TypeScript   65 hrs 5 mins   ████████████████████▓░░░░   82.89 %
+JavaScript   7 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+CSS          1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Bash         1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+PHP          1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+JSON         58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-simple-->
