@@ -132,6 +132,6 @@ JSON         58 mins         ▒░░░░░░░░░░░░░░░░
 
 ### 👀 Visitor Info
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=getlost01)
+![Hitcount](https://komarev.com/ghpvc/?username=getlost01&color=57bcd9)
 
 
