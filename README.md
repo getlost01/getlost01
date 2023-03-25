@@ -22,7 +22,11 @@
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=getlost01&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=getlost01&theme=react-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react)
+<a href="https://github.com/getlost01/github-stats">
+<img src="https://github.com/getlost01/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/getlost01/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
 
 --- 
