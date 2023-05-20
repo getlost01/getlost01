@@ -148,6 +148,4 @@ C++          2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░
 ---
 
 ### 👀 Visitor Info
-
-![Hitcount](https://komarev.com/ghpvc/?username=getlost01&color=57bcd9)<br>
 <img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
