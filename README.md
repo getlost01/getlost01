@@ -35,6 +35,7 @@
 
 #### Full-Stack Projects :
 
+* [Web Tools](https://github.com/getlost01/web-tools-gl01)
 * [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
 * [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
 * [UIET Connect](https://github.com/getlost01/UietConnect)
@@ -55,6 +56,8 @@
 * [Country Search](https://github.com/getlost01/country-search)
 * [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
 * [Cure Science Updated](https://github.com/getlost01/CureScience)
+
+<a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
 ---
 
