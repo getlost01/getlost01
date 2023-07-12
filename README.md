@@ -8,13 +8,13 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a CS Pre-final graduate at UIET Kanpur
+- 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
 
-- 🔭 I’m currently working on **UIET Connect**
+- 🔭 I’m currently working on **Intelli Kanban** & focusing on **DSA**
 
 - 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
 
-- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
+- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
 
 --- 
 
@@ -34,13 +34,13 @@
 ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
-
+* [Intelli-Kanban](https://github.com/getlost01/Intelli-Kanban)
 * [Web Tools](https://github.com/getlost01/web-tools-gl01)
 * [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
 * [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
 * [UIET Connect](https://github.com/getlost01/UietConnect)
 * [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
+* [Voting Management System](https://github.com/getlost01/VotingManagmentSystem)
 * [ABitShort](https://github.com/getlost01/linkshortner)
 * [File Share App](https://github.com/getlost01/dlink-share)
 
@@ -48,14 +48,16 @@
 
 * [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
 * [Site Saver](https://github.com/getlost01/site-saver)
-* [CP Calender](https://github.com/getlost01/cp-contest-calender)
+* [CP Calendar](https://github.com/getlost01/cp-contest-calender)
 
 #### Frontend Projects :
 
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
 * [Country Search](https://github.com/getlost01/country-search)
 * [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience)
+* [Quiz App Templates](https://github.com/getlost01/quiz-template)
+
+#### GitBook
+* [GFG-POTD](https://gl01.gitbook.io/gfg-editorials)
 
 <a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
@@ -102,7 +104,7 @@
 
 ---
 
-### 📈 Weekly Developement Breakdown
+### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-simple-->
 
@@ -144,6 +146,9 @@ CSS          5 hrs 47 mins   ▓░░░░░░░░░░░░░░░░
     </a>
     <a href="https://portfolio-de-aagam.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://gl01.gitbook.io/gfg-editorials">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
     </a>
 </div>
 
