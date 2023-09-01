@@ -109,16 +109,16 @@
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 24 January 2023 - To: 29 August 2023
+From: 24 January 2023 - To: 30 August 2023
 
-Total Time: 351 hrs 20 mins
+Total Time: 354 hrs 59 mins
 
-TypeScript   156 hrs 28 mins ███████████░░░░░░░░░░░░░░   44.54 %
-C++          79 hrs 56 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-JavaScript   68 hrs 52 mins  █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Markdown     13 hrs 30 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-JSON         7 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TypeScript   159 hrs 56 mins ███████████▒░░░░░░░░░░░░░   45.05 %
+C++          79 hrs 56 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
+JavaScript   69 hrs 1 min    █████░░░░░░░░░░░░░░░░░░░░   19.45 %
+Markdown     13 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+JSON         7 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-simple-->
