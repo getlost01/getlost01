@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
-</div>
+[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/getlost01)](https://holopin.io/@getlost01)
 
 <h2 align="center">Hi 👋, I'm Aagam Jain</h2>
 
