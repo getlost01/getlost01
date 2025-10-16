@@ -55,8 +55,6 @@ I’m Aagam Jain, an Software Engineer with 1.5 year of full-time experience.
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C582%20hrs%2043%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -86,13 +84,13 @@ Sunday                   713 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +106,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 00:55:35 UTC
+ Last Updated on 16/10/2025 00:55:22 UTC
 <!--END_SECTION:waka-->
 
 ---
