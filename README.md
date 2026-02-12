@@ -144,3 +144,26 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 ### 👀 Visitor Info
 <img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
+
+## 🚀 Featured Projects
+
+Here are some of my favorite projects you can explore:
+
+| Project | Description | Tech Stack | Link |
+|----------|--------------|------------|------|
+| 🌌 **CodeGraph Context** | A visualization tool for code relationships and dependencies. | Python, Graphviz | [View Repo](https://github.com/prithviraj-1657/CodeGraphContext) |
+| 💡 **Hacktoberfest 2025 Contributions** | Collection of my open source submissions and accepted PRs. | Python, HTML | [Explore](https://github.com/prithviraj-1657/HACKTOBERFEST_25_Python) |
+| 🧭 **Stress & Wellness Site** | A simple HTML/CSS webpage for stress management ideas. | HTML, CSS | [Visit Project](https://github.com/prithviraj-1657/Hactoberfest2025a) |
+
+---
+
+### 🧰 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+> *✨ Constantly exploring, building, and improving. Check out my latest commits and repositories!*
