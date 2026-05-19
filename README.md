@@ -1,93 +1,80 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aagam%20Jain&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20macOS&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E3AFA,50:B56BFF,100:61DAFB&height=200&section=header&text=Aagam%20Jain&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20macOS&descSize=16&descAlignY=58&descAlign=50&descColor=d0c3ff" width="100%"/>
 </div>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Headout;2+Years+of+Full-Stack+Experience;Building+Scalable+%26+Production-Ready+Systems;Java+%7C+TypeScript+%7C+Swift+%7C+React;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=getlost01&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=45&lines=Software+Engineer+%40+Headout+%F0%9F%9A%80;2+Years+of+Full-Stack+Experience;Java+%7C+TypeScript+%7C+Swift+%7C+React;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=getlost01&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
   <a href="https://github.com/getlost01?tab=followers">
-    <img src="https://img.shields.io/github/followers/getlost01?label=Followers&style=flat-square&color=58A6FF" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/getlost01?label=FOLLOWERS&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Followers"/>
   </a>
-</p>
+</div>
 
 ---
 
-### 👦 About Me
+### 🙋 About Me
 
 I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience building scalable, production-ready systems.
 
 - 🏢 Currently at **[Headout](https://www.headout.com)** — working on full-stack systems and developer tooling
-- 🔧 I work with **Java** (backend), **React** (frontend), and **Swift/SwiftUI** (macOS), with experience in Node.js, TypeScript, and PostgreSQL
-- 🤖 Big on AI-assisted development — I use AI tools daily to ship faster and think deeper
+- 🔧 Experienced in **Java** (backend), **React** (frontend), and **Swift/SwiftUI** (macOS) with Node.js, TypeScript, and PostgreSQL
+- 🤖 Big on AI-assisted development — use AI tools daily to ship faster and think deeper
 - ⚡ Fun fact: **My prod fixes = 40% Debugging + 30% Coffee + 20% Fast Support + 10% Luck**
 
 ---
 
 ### 🤖 AI Tools I Use
 
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=fff" alt="Claude"/>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=fff" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=fff" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=fff" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=fff" alt="Perplexity"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff" alt="Gemini"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=fff" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=fff" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Cursor-7aa2f7?style=for-the-badge&logo=cursor&logoColor=fff" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=fff" alt="Perplexity"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=fff" alt="Gemini"/>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=getlost01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</p>
-
----
-
-### 🔥 My Stats
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=default&hide_border=true">
-  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=getlost01&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=getlost01&theme=default&hide_border=true">
-  <img alt="GitHub Streak" height="170" src="https://streak-stats.demolab.com?user=getlost01&theme=tokyonight&hide_border=true">
-</picture>
-</p>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-light-mode-only">
-  <img alt="My Overview" height="170" src="https://getlost01.github.io/github-stats.github.io/generated/overview.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-light-mode-only">
-  <img alt="My Languages" height="170" src="https://getlost01.github.io/github-stats.github.io/generated/languages.svg">
-</picture>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=1a1b27&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=true">
-  <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=1a1b27&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true">
-</picture>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=swift,java,cpp,js,ts,html,css&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,postgres,redis,mongodb&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,github,postman,figma&perline=7" />
+</div>
 
 ---
 
-### :hammer_and_wrench: Tech Stack
+### 📊 GitHub Stats
 
-[![My Skills](https://skillicons.dev/icons?i=swift,java,cpp,js,ts,html,css,react,nextjs,nodejs,spring,postgres,redis,mongodb,mysql,docker,aws,jenkins,git,github,postman,vscode,idea,figma)](https://skillicons.dev)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=getlost01&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" height="180" alt="Streak Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-light-mode-only">
+    <img src="https://getlost01.github.io/github-stats.github.io/generated/overview.svg" height="175" alt="Overview"/>
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-light-mode-only">
+    <img src="https://getlost01.github.io/github-stats.github.io/generated/languages.svg" height="175" alt="Languages"/>
+  </picture>
+</div>
 
 ---
 
@@ -154,31 +141,38 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
 
 ---
 
 ### 🔗 Connect With Me
 
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://portfolio-de-aagam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://gl01.gitbook.io/gfg-editorials">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
-</p>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:B56BFF,100:6E3AFA&height=120&section=footer" width="100%"/>
 </div>
