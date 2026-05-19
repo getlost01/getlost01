@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E3AFA,50:B56BFF,100:61DAFB&height=200&section=header&text=Aagam%20Jain&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20macOS&descSize=16&descAlignY=58&descAlign=50&descColor=d0c3ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aagam%20Jain&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20macOS&descSize=16&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <br/>
@@ -57,7 +57,7 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=getlost01&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" height="180" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=getlost01&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="Streak Stats"/>
 </div>
 
 <br/>
