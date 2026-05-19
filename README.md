@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=45&lines=Software+Engineer+%40+Headout+%F0%9F%9A%80;2+Years+of+Full-Stack+Experience;Java+%7C+TypeScript+%7C+Swift+%7C+React;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=45&lines=Software+Engineer+%40+Headout+%F0%9F%9A%80;2+Years+of+Full-Stack+Experience;Java+%7C+TypeScript+%7C+Node.js+%7C+React;Building+Scalable+Production-Ready+Systems+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -24,32 +24,35 @@
 
 I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience building scalable, production-ready systems.
 
-- 🏢 Currently at **[Headout](https://www.headout.com)** — working on full-stack systems and developer tooling
-- 🔧 Experienced in **Java** (backend), **React** (frontend), and **Swift/SwiftUI** (macOS) with Node.js, TypeScript, and PostgreSQL
-- 🤖 Big on AI-assisted development — use AI tools daily to ship faster and think deeper
+- 🏢 Currently at **[Headout](https://www.headout.com)** — working across the full stack on backend systems, APIs, and developer tooling
+- 🔧 Experienced in **Java** & **Node.js** (backend), **React** & **TypeScript** (frontend), with PostgreSQL, Redis, and cloud infra
+- 🚀 Focused on clean architecture, developer experience, and shipping reliable software at scale
 - ⚡ Fun fact: **My prod fixes = 40% Debugging + 30% Coffee + 20% Fast Support + 10% Luck**
-
----
-
-### 🤖 AI Tools I Use
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff" alt="Claude"/>
-  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=fff" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=fff" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Cursor-7aa2f7?style=for-the-badge&logo=cursor&logoColor=fff" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=fff" alt="Perplexity"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=fff" alt="Gemini"/>
-</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,java,cpp,js,ts,html,css&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,bash&perline=7" /><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,postgres,redis,mongodb&perline=7" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,github,postman,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=swift,docker,aws,jenkins,git,github,figma&perline=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=fff" alt="Claude"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square&logo=openai&logoColor=fff" alt="ChatGPT"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=fff" alt="GitHub Copilot"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cursor-7aa2f7?style=flat-square&logo=cursor&logoColor=fff" alt="Cursor"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=fff" alt="Perplexity"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff" alt="Gemini"/>
 </div>
 
 ---
@@ -164,10 +167,6 @@ Python                   1 repo              ░░░░░░░░░░░�
   &nbsp;
   <a href="https://portfolio-de-aagam.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://gl01.gitbook.io/gfg-editorials">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
 </div>
 
