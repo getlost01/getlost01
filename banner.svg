@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#7F00FF"/>
+      <stop offset="48%"  stop-color="#C650F0"/>
+      <stop offset="100%" stop-color="#1CB5E0"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.22"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="180" fill="url(#grad)"/>
+
+  <!-- Wave layers -->
+  <path d="M0,115 C120,90 240,140 360,115 C480,90 600,140 720,115 C810,97 870,125 900,115 L900,180 L0,180 Z"
+        fill="url(#wave1)"/>
+  <path d="M0,140 C150,122 300,158 450,140 C600,122 750,158 900,140 L900,180 L0,180 Z"
+        fill="url(#wave2)"/>
+
+  <!-- Name -->
+  <text x="450" y="82"
+        font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="46" font-weight="700" letter-spacing="1"
+        fill="#ffffff" text-anchor="middle">Aagam Jain</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="116"
+        font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="15" font-weight="400" letter-spacing="0.5"
+        fill="rgba(255,255,255,0.88)" text-anchor="middle">Software Engineer · Full-Stack &amp; macOS</text>
+</svg>

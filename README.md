@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aagam%20Jain&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20macOS&descSize=16&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://raw.githubusercontent.com/getlost01/getlost01/main/banner.svg" width="100%"/>
 </div>
 
 <br/>
@@ -174,5 +174,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:B56BFF,100:6E3AFA&height=120&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/getlost01/getlost01/main/footer.svg" width="100%"/>
 </div>
