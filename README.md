@@ -84,7 +84,7 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C587%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C589%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.93%20million%20lines%20of%20code-blue?style=flat)
 
@@ -115,13 +115,18 @@ Sunday                   391 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               57 mins             ████████████░░░░░░░░░░░░░   47.40 % 
+JSON                     24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Markdown                 24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Swift                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 42 mins        █████████████████████░░░░   84.67 % 
+Claude Code              18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +142,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2026 02:28:18 UTC
+ Last Updated on 21/05/2026 02:29:38 UTC
 <!--END_SECTION:waka-->
 
 ---
