@@ -84,7 +84,45 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2052%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.01%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                950 commits         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+🌆 Daytime                1072 commits        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+🌃 Evening                1442 commits        █████████░░░░░░░░░░░░░░░░   36.51 % 
+🌙 Night                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Tuesday                  407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Wednesday                266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Thursday                 396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Friday                   645 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Saturday                 886 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Sunday                   928 commits         ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -99,7 +137,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:50:02 UTC
+ Last Updated on 26/07/2026 01:53:03 UTC
 <!--END_SECTION:waka-->
 
 ---
