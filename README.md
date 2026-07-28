@@ -84,7 +84,9 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.01%20million%20lines%20of%20code-blue?style=flat)
 
@@ -124,6 +126,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -137,7 +145,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:01:31 UTC
+ Last Updated on 28/07/2026 01:43:55 UTC
 <!--END_SECTION:waka-->
 
 ---
