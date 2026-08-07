@@ -84,53 +84,7 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2037%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%205%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.17%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                972 commits         ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-🌆 Daytime                1103 commits        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-🌃 Evening                1508 commits        █████████░░░░░░░░░░░░░░░░   36.88 % 
-🌙 Night                  506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   430 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Tuesday                  418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Wednesday                272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Thursday                 408 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Friday                   669 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Saturday                 925 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Sunday                   967 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -145,7 +99,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:43:04 UTC
+ Last Updated on 07/08/2026 02:09:05 UTC
 <!--END_SECTION:waka-->
 
 ---
