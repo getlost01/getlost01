@@ -88,26 +88,26 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.95%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1016 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌆 Daytime                1171 commits        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-🌃 Evening                1640 commits        █████████░░░░░░░░░░░░░░░░   37.50 % 
-🌙 Night                  546 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+🌞 Morning                664 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌆 Daytime                697 commits         ████████░░░░░░░░░░░░░░░░░   32.11 % 
+🌃 Evening                584 commits         ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+🌙 Night                  226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Tuesday                  443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Wednesday                284 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Thursday                 432 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Friday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Saturday                 1005 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Sunday                   1046 commits        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Monday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Tuesday                  264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Wednesday                188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Thursday                 240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Friday                   361 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Saturday                 379 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Sunday                   421 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
 ```
 
 
@@ -117,19 +117,44 @@ Sunday                   1046 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 23 mins       ██████████████░░░░░░░░░░░   56.82 % 
+Swift                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              3 hrs 27 mins       █████████████████████░░░░   82.52 % 
+VS Code                  44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 6 mins (97.81%)
+
+✍️ 4,616 lines written by AI, 3 lines written by hand (99.94% AI-written)
+
+🔤 3,091,445 Input Tokens, 755,708 Output Tokens
+
+💵 $122.02 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 68 AI Prompts
+
+Opus                     3,225 lines         ████████████████░░░░░░░░░   63.72 % 
+Sonnet                   1,243 lines         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Fable                    593 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.94% of written lines came from AI
+📝 Concise Prompter — average 408 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +170,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 00:44:18 UTC
+ Last Updated on 22/08/2026 00:41:14 UTC
 <!--END_SECTION:waka-->
 
 ---
