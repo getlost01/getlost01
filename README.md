@@ -84,30 +84,30 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C615%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.95%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                664 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌆 Daytime                697 commits         ████████░░░░░░░░░░░░░░░░░   32.11 % 
-🌃 Evening                584 commits         ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-🌙 Night                  226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+🌞 Morning                796 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+🌆 Daytime                895 commits         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+🌃 Evening                980 commits         ████████░░░░░░░░░░░░░░░░░   32.48 % 
+🌙 Night                  346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Tuesday                  264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Wednesday                188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Thursday                 240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Friday                   361 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Saturday                 379 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Sunday                   421 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Monday                   366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Tuesday                  330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Wednesday                224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Thursday                 312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Friday                   517 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Saturday                 613 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Sunday                   655 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
 ```
 
 
@@ -117,44 +117,44 @@ Sunday                   421 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 23 mins       ██████████████░░░░░░░░░░░   56.82 % 
-Swift                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Markdown                 3 hrs 23 mins       ███████████████░░░░░░░░░░   61.63 % 
+JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Swift                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 27 mins       █████████████████████░░░░   82.52 % 
-VS Code                  44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Claude Code              4 hrs 34 mins       █████████████████████░░░░   83.06 % 
+VS Code                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
 
 💻 Operating System: 
-Mac                      4 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 6 mins (97.81%)
+⏱ AI Coding Time: 5 hrs 25 mins (98.32%)
 
-✍️ 4,616 lines written by AI, 3 lines written by hand (99.94% AI-written)
+✍️ 7,076 lines written by AI, 6 lines written by hand (99.92% AI-written)
 
-🔤 3,091,445 Input Tokens, 755,708 Output Tokens
+🔤 3,237,458 Input Tokens, 803,442 Output Tokens
 
-💵 $122.02 Estimated AI Cost This Week
+💵 $123.40 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 68 AI Prompts
+🧠 14 AI Sessions, 100 AI Prompts
 
-Opus                     3,225 lines         ████████████████░░░░░░░░░   63.72 % 
-Sonnet                   1,243 lines         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Fable                    593 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Sonnet                   3,751 lines         ████████████░░░░░░░░░░░░░   49.56 % 
+Opus                     3,225 lines         ███████████░░░░░░░░░░░░░░   42.61 % 
+Fable                    593 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📝 Concise Prompter — average 408 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 657 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +170,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 00:41:14 UTC
+ Last Updated on 23/08/2026 00:44:12 UTC
 <!--END_SECTION:waka-->
 
 ---
