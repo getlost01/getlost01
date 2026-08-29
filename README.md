@@ -117,44 +117,39 @@ Sunday                   655 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 hrs 23 mins       ███████████████░░░░░░░░░░   61.63 % 
-JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Swift                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown                 1 hr                ███████████████████░░░░░░   76.95 % 
+Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 34 mins       █████████████████████░░░░   83.06 % 
-VS Code                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Claude Code              1 hr 6 mins         █████████████████████░░░░   84.78 % 
+VS Code                  12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 
 💻 Operating System: 
-Mac                      5 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (98.32%)
+⏱ AI Coding Time: 1 hr 18 mins (99.93%)
 
-✍️ 7,076 lines written by AI, 6 lines written by hand (99.92% AI-written)
+✍️ 2,460 lines written by AI, 3 lines written by hand (99.88% AI-written)
 
-🔤 3,237,458 Input Tokens, 803,442 Output Tokens
+🔤 146,013 Input Tokens, 47,734 Output Tokens
 
-💵 $123.40 Estimated AI Cost This Week
+💵 $1.38 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 100 AI Prompts
+🧠 3 AI Sessions, 32 AI Prompts
 
-Sonnet                   3,751 lines         ████████████░░░░░░░░░░░░░   49.56 % 
-Opus                     3,225 lines         ███████████░░░░░░░░░░░░░░   42.61 % 
-Fable                    593 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   2,508 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📄 Detailed Prompter — average 657 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 1,186 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +165,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 07:59:16 UTC
+ Last Updated on 29/08/2026 04:50:26 UTC
 <!--END_SECTION:waka-->
 
 ---
