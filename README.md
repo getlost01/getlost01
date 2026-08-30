@@ -88,26 +88,26 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.61%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                796 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-🌆 Daytime                895 commits         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-🌃 Evening                980 commits         ████████░░░░░░░░░░░░░░░░░   32.48 % 
-🌙 Night                  346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+🌞 Morning                884 commits         ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+🌆 Daytime                1027 commits        ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+🌃 Evening                1244 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌙 Night                  426 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Tuesday                  330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Wednesday                224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Thursday                 312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Friday                   517 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Saturday                 613 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Sunday                   655 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Monday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Tuesday                  374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Wednesday                248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Thursday                 360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Friday                   621 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Saturday                 769 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Sunday                   811 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
 ```
 
 
@@ -117,39 +117,19 @@ Sunday                   655 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr                ███████████████████░░░░░░   76.95 % 
-Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 6 mins         █████████████████████░░░░   84.78 % 
-VS Code                  12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (99.93%)
-
-✍️ 2,460 lines written by AI, 3 lines written by hand (99.88% AI-written)
-
-🔤 146,013 Input Tokens, 47,734 Output Tokens
-
-💵 $1.38 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 32 AI Prompts
-
-Sonnet                   2,508 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📄 Detailed Prompter — average 1,186 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -165,7 +145,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 04:50:26 UTC
+ Last Updated on 30/08/2026 02:30:07 UTC
 <!--END_SECTION:waka-->
 
 ---
