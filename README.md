@@ -117,19 +117,40 @@ Sunday                   811 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 17 mins             ████████████████████░░░░░   79.63 % 
+JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              17 mins             ████████████████████░░░░░   81.37 % 
+VS Code                  4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 21 mins (100.0%)
+
+✍️ 559 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 634,625 Input Tokens, 89,033 Output Tokens
+
+💵 $12.76 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+Sonnet                   384 lines           █████████████████░░░░░░░░   68.45 % 
+Fable                    177 lines           ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 314 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +166,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 02:23:41 UTC
+ Last Updated on 01/09/2026 02:41:08 UTC
 <!--END_SECTION:waka-->
 
 ---
