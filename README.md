@@ -84,9 +84,9 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C617%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.61%20million%20lines%20of%20code-blue?style=flat)
 
@@ -117,32 +117,32 @@ Sunday                   811 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 18 mins        █████████████████░░░░░░░░   69.50 % 
-Image (svg)              26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Markdown                 1 hr 18 mins        ████████████░░░░░░░░░░░░░   47.30 % 
+Image (svg)              52 mins             ████████░░░░░░░░░░░░░░░░░   31.66 % 
+Other                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-Claude Code              1 hr 33 mins        █████████████████████░░░░   82.65 % 
-VS Code                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Claude Code              2 hrs 26 mins       ██████████████████████░░░   88.10 % 
+VS Code                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (95.92%)
+⏱ AI Coding Time: 2 hrs 41 mins (97.22%)
 
 ✍️ 1,605 lines written by AI, 39 lines written by hand (97.63% AI-written)
 
-🔤 1,628,599 Input Tokens, 271,466 Output Tokens
+🔤 2,125,552 Input Tokens, 346,348 Output Tokens
 
-💵 $37.93 Estimated AI Cost This Week
+💵 $43.89 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 23 AI Prompts
+🧠 7 AI Sessions, 39 AI Prompts
 
 Opus                     1,522 lines         ███████████████░░░░░░░░░░   61.74 % 
 Sonnet                   766 lines           ████████░░░░░░░░░░░░░░░░░   31.08 % 
@@ -151,8 +151,8 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.63% of written lines came from AI
-📝 Concise Prompter — average 178 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 462 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 1.6% of changed lines were hand-edited
 ```
 
@@ -169,7 +169,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 02:03:01 UTC
+ Last Updated on 03/09/2026 02:06:46 UTC
 <!--END_SECTION:waka-->
 
 ---
