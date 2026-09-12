@@ -84,9 +84,9 @@ I'm **Aagam Jain**, a Software Engineer with **2 years** of full-time experience
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C618%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C619%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -117,38 +117,41 @@ Sunday                   889 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 36 mins             ██████████████████░░░░░░░   71.15 % 
-Other                    14 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Other                    53 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
+Markdown                 43 mins             ████████░░░░░░░░░░░░░░░░░   30.88 % 
+JSON                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🔥 Editors: 
-Claude Code              36 mins             ████████████████████████░   97.85 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Claude Code              2 hrs 11 mins       ████████████████████████░   94.32 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 18 mins (99.13%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 634 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 612,191 Input Tokens, 125,652 Output Tokens
+🔤 884,415 Input Tokens, 277,240 Output Tokens
 
-💵 $10.56 Estimated AI Cost This Week
+💵 $23.12 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 16 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     611 lines           ████████████████████████░   96.37 % 
+Sonnet                   23 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 832 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 814 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -164,7 +167,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 02:06:24 UTC
+ Last Updated on 12/09/2026 02:11:46 UTC
 <!--END_SECTION:waka-->
 
 ---
