@@ -117,41 +117,19 @@ Sunday                   883 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    53 mins             █████████████░░░░░░░░░░░░   52.10 % 
-JSON                     31 mins             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-JavaScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 36 mins        ████████████████████████░   94.24 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (100.0%)
-
-✍️ 634 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 272,224 Input Tokens, 151,588 Output Tokens
-
-💵 $12.56 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 12 AI Prompts
-
-Opus                     611 lines           ████████████████████████░   96.37 % 
-Sonnet                   23 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 809 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -167,7 +145,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 02:14:58 UTC
+ Last Updated on 19/09/2026 02:17:15 UTC
 <!--END_SECTION:waka-->
 
 ---
