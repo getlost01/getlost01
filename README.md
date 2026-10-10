@@ -117,19 +117,42 @@ Sunday                   880 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    53 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+TypeScript               52 mins             ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+JSON                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              3 hrs 2 mins        ████████████████████████░   96.28 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 9 mins (99.99%)
+
+✍️ 1,061 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 910,652 Input Tokens, 360,387 Output Tokens
+
+💵 $34.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 59 AI Prompts
+
+Sonnet                   1,061 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 272 characters per prompt
+🔁 Iterative Prompter — average 30 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +168,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 03:42:38 UTC
+ Last Updated on 10/10/2026 03:24:52 UTC
 <!--END_SECTION:waka-->
 
 ---
