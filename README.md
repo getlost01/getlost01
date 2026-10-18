@@ -117,38 +117,19 @@ Sunday                   880 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 18 mins             ██████████████████░░░░░░░   72.75 % 
-Other                    6 mins              ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+JavaScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              21 mins             ██████████████████████░░░   86.06 % 
-VS Code                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Claude Code              0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (86.29%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 193,126 Input Tokens, 36,213 Output Tokens
-
-💵 $1.13 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 9 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 488 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -164,7 +145,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 02:10:35 UTC
+ Last Updated on 18/10/2026 02:10:25 UTC
 <!--END_SECTION:waka-->
 
 ---
